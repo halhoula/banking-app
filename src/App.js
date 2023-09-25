@@ -1,6 +1,6 @@
 import React from 'react';
-import CreateAccount from './CreateAccount';
-import DisplayUser from './DisplayUser';
+import CreateAccount from './components/CreateAccount';
+import DisplayUser from './components/DisplayUser';
 
 function App() {
   return (

@@ -1,0 +1,86 @@
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    overflow-y: auto; 
+    max-height: 350px; 
+  
+  }
+
+  .usercontainer {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    
+  }
+  
+  .input {
+    padding: 10px;
+    width: 95%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+  }
+  
+  .button {
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .userDetails {
+    margin-top: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+  }
+  
+  .tableHeader {
+    background-color: #ddd;
+  }
+  
+  .tableCell {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+
+  .credit {
+    border: 1px solid #ccc;
+    padding: 10px;
+    color: #155724;
+    
+  }
+  
+  .debit {
+    border: 1px solid #ccc;
+    padding: 10px;
+    color: #f80019;
+    
+  }
+
+  .block {
+    padding: 20px;
+    background-color: #e0e0e0;
+    margin: 20px;
+  }
+  
+  .subblock {
+    padding: 10px;
+    background-color: white;
+    margin-top: 10px;
+  }
